@@ -1,1 +1,0 @@
-print("khasi AI project Started")
